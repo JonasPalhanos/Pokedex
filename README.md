@@ -9,4 +9,5 @@
 - Consulta e retorna um pokémon via requisição via API.
 - As consulta podem ser feitas pelo nome ou numeração do pokemon.
 - Os retornos serão: nome, número e imagem do pokémon.
-- Botões para avançar e retornar para outro pokemon
+- Botões para avançar e retornar para outro pokémon.
+- Mostra as carateristicas dos pokémon.
