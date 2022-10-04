@@ -101,3 +101,13 @@ main {
     bottom: -20px;
     
 }
+
+.pokemon_characteristics {
+    position: absolute;
+    font-weight: 300;
+    color: #FFFF;
+    top: 40%;
+    right: 24%;
+    font-style: italic;
+    font-size: clamp(5px, 2vw, 18px);
+}
